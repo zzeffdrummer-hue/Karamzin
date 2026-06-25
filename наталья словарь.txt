@@ -1,4 +1,4 @@
-sentimental_cliches_words = {
+set2 = {
 "природа": [
 прекрасный,
 картина,
